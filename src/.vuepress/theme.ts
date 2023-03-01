@@ -3,20 +3,20 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://manual.clockworkpi-fans.com",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "ClockworkPi-Fans",
+    url: "https://github.com/ClockworkPiFans",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ClockworkPiFans/manual",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "src",
 
   locales: {
     "/": {
@@ -26,7 +26,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "ClockworkPi-Fans Manual",
 
       displayFooter: true,
 
@@ -45,7 +45,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "ClockworkPi-Fans 手册",
 
       displayFooter: true,
 
@@ -56,12 +56,12 @@ export default hopeTheme({
     },
   },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
-    },
-  },
+  // encrypt: {
+  //   config: {
+  //     "/demo/encrypt.html": ["1234"],
+  //     "/zh/demo/encrypt.html": ["1234"],
+  //   },
+  // },
 
   plugins: {
     comment: {

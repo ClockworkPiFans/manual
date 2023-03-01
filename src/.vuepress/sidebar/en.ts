@@ -4,18 +4,11 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
-      icon: "discover",
-      text: "GameShell",
-      prefix: "gameshell/",
-      link: "gameshell/",
-      children: "structure",
-    },
-    {
+      icon: "book",
       text: "Docs",
-      icon: "note",
-      prefix: "guide/",
+      prefix: "docs/",
       children: "structure",
+      collapsible: true,
     },
-    "slides",
   ],
 });

@@ -1,0 +1,4 @@
+---
+title: Joypad
+icon: joypad
+---

@@ -4,21 +4,28 @@ icon: home
 title: Home
 heroImage: /logo.webp
 heroText: ClockworkPi-Fans Manual
-tagline: To make your GameShell, DevTerm, uConsole to be more funny!
+tagline: To make your uConsole, DevTerm and GameShell to be more funny!
 actions:
-  - text: Get Started
-    link: /gameshell/
+  - text: Get Started 🌟
+    link: /docs/gameshell/
     type: primary
 
-  - text: Docs
-    link: /guide/
+  - text: Docs 📖
+    link: /docs/
 
 features:
-  - title: Markdown Enhance
-    icon: markdown
-    details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in markdown
-    link: https://theme-hope.vuejs.press/guide/markdown/
+  - title: Complete document
+    icon: book
+    details: It is sorted out according to the information sorted out by many enthusiasts, and each step is very detailed.
+
+  - title: Comments and responses
+    icon: comment
+    details: Fans are very welcome to comment actively, and we will reply as soon as possible.
+
+  - title: Unexpected new gameplay
+    icon: gamepad
+    details: As long as there are new and interesting gameplay, we will update them here as soon as possible.
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | GPLv3 Licensed, Copyright © 2023-present ClockworkPi-Fans
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | GPLv3 Licensed, Copyright © 2023-present <a href="https://clockworkpi-fans.com" target="_blank">ClockworkPi-Fans</a>
 ---

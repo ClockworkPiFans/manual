@@ -4,18 +4,11 @@ export const zhSidebar = sidebar({
   "/zh/": [
     "",
     {
-      icon: "discover",
-      text: "案例",
-      prefix: "gameshell/",
-      link: "gameshell/",
-      children: "structure",
-    },
-    {
+      icon: "book",
       text: "文档",
-      icon: "note",
-      prefix: "guide/",
+      prefix: "docs/",
       children: "structure",
+      collapsible: true,
     },
-    "slides",
   ],
 });
