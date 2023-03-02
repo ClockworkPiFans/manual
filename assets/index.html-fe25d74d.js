@@ -1,0 +1,1 @@
+import{_ as n,W as o,X as a,Y as e,Z as l,$ as s,D as c,a0 as r}from"./framework-0e530b05.js";const _={};function i(d,u){const t=c("RouterLink");return o(),a("div",null,[e("ul",null,[e("li",null,[l(t,{to:"/docs/gameshell-ext/"},{default:s(()=>[r("GameShell Extension")]),_:1})])])])}const x=n(_,[["render",i],["__file","index.html.vue"]]);export{x as default};
