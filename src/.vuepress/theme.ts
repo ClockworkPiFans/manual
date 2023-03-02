@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/ClockworkPiFans",
   },
 
-  iconAssets: "fontawesome",
+  iconAssets: "iconify",
 
   logo: "/logo.svg",
 
@@ -65,8 +65,14 @@ export default hopeTheme({
 
   plugins: {
     comment: {
-      // @ts-expect-error: You should generate and use your own comment service
-      provider: "Waline",
+      /**
+       * Using Giscus
+       */
+      provider: "Giscus",
+      repo: "ClockworkPiFans/manual",
+      repoId: "R_kgDOJDmLIw",
+      category: "Announcements",
+      categoryId: "DIC_kwDOJDmLI84CUmL9",
     },
 
     // all features are enabled for demo, only preserve features you need here

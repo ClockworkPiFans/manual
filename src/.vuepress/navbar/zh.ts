@@ -4,16 +4,16 @@ export const zhNavbar = navbar([
   "/zh/",
   {
     text: "文档",
-    icon: "book",
+    icon: "material-symbols:menu-book",
     prefix: "/zh/docs/",
     children: [
       {
-        text: "GameShell",
+        text: "GameShell 扩展",
         icon: "gamepad",
-        prefix: "gameshell/",
+        prefix: "gameshell-ext/",
         children: [
-          { text: "屏幕", icon: "screen", link: "screen" },
-          { text: "摇杆", icon: "joypad", link: "joypad" },
+          { text: "屏幕", icon: "material-symbols:privacy-screen", link: "screen" },
+          { text: "摇杆", icon: "bi:joystick", link: "joypad" },
         ],
       },
     ],

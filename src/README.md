@@ -1,13 +1,13 @@
 ---
 home: true
-icon: home
+icon: material-symbols:home
 title: Home
 heroImage: /logo.webp
 heroText: ClockworkPi-Fans Manual
 tagline: To make your uConsole, DevTerm and GameShell to be more funny!
 actions:
   - text: Get Started 🌟
-    link: /docs/gameshell/
+    link: /docs/gameshell-ext/
     type: primary
 
   - text: Docs 📖
@@ -15,15 +15,15 @@ actions:
 
 features:
   - title: Complete document
-    icon: book
+    icon: material-symbols:menu-book
     details: It is sorted out according to the information sorted out by many enthusiasts, and each step is very detailed.
 
   - title: Comments and responses
-    icon: comment
+    icon: mdi:comment-processing
     details: Fans are very welcome to comment actively, and we will reply as soon as possible.
 
   - title: Unexpected new gameplay
-    icon: gamepad
+    icon: material-symbols:fiber-new-rounded
     details: As long as there are new and interesting gameplay, we will update them here as soon as possible.
 
 copyright: false

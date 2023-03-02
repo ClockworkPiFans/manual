@@ -4,16 +4,16 @@ export const enNavbar = navbar([
   "/",
   {
     text: "Docs",
-    icon: "book",
+    icon: "material-symbols:menu-book",
     prefix: "/docs/",
     children: [
       {
-        text: "GameShell",
+        text: "GameShell Extension",
         icon: "gamepad",
-        prefix: "gameshell/",
+        prefix: "gameshell-ext/",
         children: [
-          { text: "Screen", icon: "screen", link: "screen" },
-          { text: "Joypad", icon: "joypad", link: "joypad" },
+          { text: "Screen", icon: "material-symbols:privacy-screen", link: "screen" },
+          { text: "Joypad", icon: "bi:joystick", link: "joypad" },
         ],
       },
     ],

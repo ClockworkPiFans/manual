@@ -1,4 +1,4 @@
 ---
 title: Joypad
-icon: joypad
+icon: bi:joystick
 ---

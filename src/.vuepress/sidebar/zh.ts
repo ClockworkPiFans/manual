@@ -4,7 +4,7 @@ export const zhSidebar = sidebar({
   "/zh/": [
     "",
     {
-      icon: "book",
+      icon: "material-symbols:menu-book",
       text: "文档",
       prefix: "docs/",
       children: "structure",
