@@ -35,8 +35,9 @@ Purchase list:
   - Purchase parameters: off-the-side 45P 60mm
   - Purchase quantity: 1
 - 3D printed housing
-  - [front shell STL file](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/upper%20case.stl)
-  - [Rear shell STL file](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/bottom%20case.stl)
+  - [Original Front Case STL](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/original-front-case.stl)
+  - [Plus Front Case STL](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/plus-front-case.stl)
+  - [Plus Back Case STL](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/plus-back-case.stl)
     ::: tip
     3D printing is the first order discount in many stores, so it is not recommended here.
     :::

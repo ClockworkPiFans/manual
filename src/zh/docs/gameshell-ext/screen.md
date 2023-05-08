@@ -35,8 +35,9 @@ icon: material-symbols:privacy-screen
   - 购买参数：异面 45P 60mm
   - 购买数量：1
 - 3D 打印外壳
-  - [前壳STL文件](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/upper%20case.stl)
-  - [后壳STL文件](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/bottom%20case.stl)
+  - [原版尺寸 前壳STL文件](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/original-front-case.stl)
+  - [加长 1cm 前壳STL文件](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/plus-front-case.stl)
+  - [加长 1cm 后壳STL文件](https://github.com/ClockworkPiFans/GameShell_ScreenHacking/raw/main/3D%20model/plus-back-case.stl)
     ::: tip
     3D 打印很多店家都是首单优惠，这里就不推荐了。
     :::
@@ -53,4 +54,8 @@ icon: material-symbols:privacy-screen
 
 ## 组装
 
+视频待录制，如有疑问，请在评论区留言，谢谢！
+
 ## 点亮
+
+视频待录制，如有疑问，请在评论区留言，谢谢！
