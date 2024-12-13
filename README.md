@@ -1,2 +1,2 @@
 # ClockworkPi-Fans Manual
-A manual website made with vuepress(v2).
+A manual website made with vuepress(v2). 
