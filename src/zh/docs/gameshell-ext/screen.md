@@ -5,7 +5,7 @@ icon: material-symbols:privacy-screen
 
 ## 效果展示
 
-![](https://clockworkpi-fans.com/images/screen_showcase.jpg)
+![](https://clockworkpifans.github.io/website/images/screen_showcase.jpg)
 
 ## 改装须知
 
